@@ -6,4 +6,7 @@
 - Select language c++
 - Go to build phase and select Link Binary with Libraries
 - Add OpenGL and GLUT framework
-- Run main.cpp and you are done :p
+- Copy the code from problem1.cpp and problem2.cpp to main.cpp
+- Delete #include<windows.h> from the file.
+- Replace #include<GL/glut.h> with #include<GLUT/glut.h>
+- Run the main.cpp file and you are done✌️✌️
